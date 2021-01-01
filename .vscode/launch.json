@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Leetcode",
+            "program": "${workspaceRoot}/dist/server/bin/app.js",
+            "stopOnEntry": false,
+            "args": [],
+            "cwd": "${workspaceRoot}/",
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "sourceMaps": true,
+            "outFiles": [
+                "${workspaceRoot}/server/bin/**/*.js"
+            ]
+        },
+    ]
+}

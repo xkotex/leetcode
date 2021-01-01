@@ -1,0 +1,9 @@
+# Dependency directory
+node_modules
+
+# Ignore built ts files
+dist/server/bin
+dist/uploader/bin
+
+# Ignore image service files
+dist/server/image

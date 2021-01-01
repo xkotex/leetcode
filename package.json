@@ -1,0 +1,12 @@
+{
+  "name": "leetcode",
+  "version": "2020.09.29",
+  "description": "Leetcode",
+  "author": "Leetcode",
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "10.5.2",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {}
+}
