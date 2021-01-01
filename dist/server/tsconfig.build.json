@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es2017",
+        "noImplicitAny": true,
+        "strictNullChecks": false,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "bin"
+    },
+    "include": [
+        "../../src/index.ts",
+        "../../src/typings.d.ts"
+    ]
+}
