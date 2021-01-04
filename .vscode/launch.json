@@ -5,7 +5,7 @@
             "type": "node",
             "request": "launch",
             "name": "Leetcode",
-            "program": "${workspaceRoot}/dist/server/bin/index.js",
+            "program": "${workspaceRoot}/dist/server/bin/server.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}/",
