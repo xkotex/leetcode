@@ -1,4 +1,6 @@
-import { containsDuplicate } from "./blind72/arraysHashing/217_Contains_Duplicate";
-import { isAnagram } from "./blind72/arraysHashing/242_Valid_Anagram";
+import { twoSum } from "./blind72/arraysHashing/1_Two_Sum";
+import { groupAnagrams } from "./blind72/arraysHashing/49_Group_Anagrams";
 
-console.log(isAnagram("anagram", "nagaram"))
+// console.log(groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
+
+console.log(groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
