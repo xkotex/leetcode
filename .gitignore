@@ -1,5 +1,2 @@
-# Dependency directory
+bin
 node_modules
-
-# Ignore built ts files
-dist/server/bin

@@ -1,4 +1,4 @@
-import { maxProfit } from "./easy/121_Best_Time_to_Buy_and_Sell_Stock";
+import { containsDuplicate } from "./blind72/arraysHashing/217_Contains_Duplicate";
+import { isAnagram } from "./blind72/arraysHashing/242_Valid_Anagram";
 
-console.log(maxProfit([7, 1, 5, 3, 6, 4]))
-console.log(maxProfit([7, 6, 4, 3, 1]))
+console.log(isAnagram("anagram", "nagaram"))
