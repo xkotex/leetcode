@@ -10,6 +10,9 @@
             "env": {
                 "DEBUG": "1"
             },
+            "args": [
+                "--harmony"
+            ],
             "outFiles": [
                 "${workspaceFolder}/dist/server/bin/**/*.js"
             ]
